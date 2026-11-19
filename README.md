@@ -1,4 +1,4 @@
-# Kraios Development Alerts policies (public site)
+# LAVQO Bot Alerts policies (public site)
 
 Static public GitHub Pages content, not the private Kraios trading app or SMS notifier. Contains no phone numbers, personal addresses, or credentials.
 
